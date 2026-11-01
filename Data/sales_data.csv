@@ -1,0 +1,11 @@
+OrderID,Product,Category,Quantity,Price,City,Rating,Total
+101,Laptop,Electronics,2,700,Rabat,5.0,1400
+102,Mouse,Accessories,5,20,Casablanca,4.0,100
+103,Keyboard,Accessories,3,45,Rabat,4.0,135
+104,Laptop,Electronics,1,700,Marrakech,5.0,700
+105,Monitor,Electronics,2,180,Rabat,3.0,360
+106,Mouse,Accessories,4,20,Casablanca,4.0,80
+107,Keyboard,Accessories,6,45,Fes,4.125,270
+108,Monitor,Electronics,1,180,Marrakech,3.0,180
+109,Laptop,Electronics,3,700,Fes,5.0,2100
+110,Mouse,Accessories,2,20,Rabat,4.125,40
